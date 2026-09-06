@@ -1415,7 +1415,7 @@ Correction DM HTML/CSS
 
     - [Présentation de la matière](#programme) ;
     
-    - **Créer** un compte élève sur [Capytale](https://capytale2.ac-paris.fr/web/c-auth/login){target=_blank} (en tant qu'utilisateur sans ENT) avec le code Sésame `` ;
+    - **Créer** un compte élève sur [Capytale](https://capytale2.ac-paris.fr/web/c-auth/login){target=_blank} (en tant qu'utilisateur sans ENT) avec le code Sésame `TSH HH5 ZEV` ;
     
     - **Faire** le travail demandé sur le notebook [Capytale n°`efb8-11440092`](https://capytale2.ac-paris.fr/web/c/efb8-11440092){target=_blank} ;
     
@@ -1426,7 +1426,6 @@ Correction DM HTML/CSS
     - Etat d'avancement de la [prise en main](https://ec-morlaix.forge.apps.education.fr/infos/priseenmain/){:target="_blank"} de l'E.N.T. avec l'iPad ;
     
    
-
    
 === "TRAVAIL À FAIRE"
 
