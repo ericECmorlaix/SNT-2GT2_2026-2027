@@ -1415,7 +1415,7 @@ Correction DM HTML/CSS
 
     - [Présentation de la matière](#programme) ;
     
-    - **Créer** un compte élève sur [Capytale](https://capytale2.ac-paris.fr/web/c-auth/login){target=_blank} (en tant qu'utilisateur sans ENT) avec le code Sésame `TSH HH5 ZEV` ;
+    - **Créer** un compte élève sur [Capytale](https://capytale2.ac-paris.fr/web/c-auth/login){target=_blank} (en tant qu'utilisateur sans ENT) avec le code Sésame `6BC HK2 158` ;
     
     - **Faire** le travail demandé sur le notebook [Capytale n°`efb8-11440092`](https://capytale2.ac-paris.fr/web/c/efb8-11440092){target=_blank} ;
     
