@@ -1365,32 +1365,6 @@ Correction DM HTML/CSS
     > ==**Rédiger** progressivement un [notebook jupyter sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
 ***
 
-### Le 12/09
-
-=== "CONTENU DE SÉANCE"
-
-    - **Découvrir** [les bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"}
-
-    - Retour sur le T.A.F. ;
-
-    - **Créer** un compte élève sur [Capytale](https://capytale2.ac-paris.fr/web/c-auth/login){target=_blank} avec le code Sésame `PAM ZCZ ABT` ;
-    
-    - **Faire** le travail demandé sur le notebook [Capytale n°`9115-7076159`](https://capytale2.ac-paris.fr/web/c/9115-7076159){target=_blank} ;
-    
-
-=== "TRAVAIL À FAIRE"
-
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
-    > ==**Rédiger** progressivement un [notebook jupyter sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
-
-***
-
-### Le 05/09
-
-=== "CONTENU DE SÉANCE"
-
-    - [Présentation de la matière](#programme) ;
-    - Bilan d'avancement et poursuite de la [prise en main](https://ec-morlaix.forge.apps.education.fr/infos/priseenmain/){:target="_blank"} de l'iPad ;
     
     - **Visionner** "Petite histoire de l'informatique" une vidéo réalisée par l'[INRIA](https://www.inria.fr/fr){:target="_blank"} -> ==**relever** les noms propres, dates clefs, mots et acronymes liés à l'informatique ; **Transmettre** vos notes par [mail]== :
 
@@ -1400,12 +1374,28 @@ Correction DM HTML/CSS
 
     > [La playlist comprenant 5 vidéos](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR)
 
-   
-=== "TRAVAIL À FAIRE"
+    - **Faire** le travail demandé sur le notebook [Capytale n°`9115-7076159`](https://capytale2.ac-paris.fr/web/c/9115-7076159){target=_blank} ;
 
-    - **Visionner entièrement** la [vidéo "Petite histoire de l'informatique"](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){target=_blank} -> ==**relever** les noms propres, dates clefs, mots et acronymes liés à l'informatique ; **Transmettre** vos notes par [mail]==  
 
 -->
+***
+
+### Le 14/09
+
+=== "CONTENU DE SÉANCE"
+    
+    - Retour sur le T.A.F. ;
+        
+    - **Découvrir** [les bases de la programmation en Python - Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} ;
+    
+    <center><a href="https://fr.futurecoder.io/course/#IntroducingTheShell" target="_blank"><img src="https://fr.futurecoder.io/static/logo/bordered.png" width="30%"></a></center>
+
+
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
+    > ==**Compléter** progressivement votre [notebook jupyter sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
+
 
 ***
 
