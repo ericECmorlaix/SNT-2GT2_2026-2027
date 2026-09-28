@@ -1380,7 +1380,7 @@ Correction DM HTML/CSS
 -->
 ***
 
-### Les 14 21 et 22/09
+### Les 14, 21, 22 et 28/09
 
 === "CONTENU DE SÉANCE"
     
