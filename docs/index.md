@@ -1377,7 +1377,30 @@ Correction DM HTML/CSS
     - **Faire** le travail demandé sur le notebook [Capytale n°`9115-7076159`](https://capytale2.ac-paris.fr/web/c/9115-7076159){target=_blank} ;
 
 
+- **Exercer** vos compétences de programmation en Python avec [CodEx sur Capytale](https://capytale2.ac-paris.fr/web/c/dd1f-8095090){target="_blank"} et **conserver** une trace de [vos apprentissages Python sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} ;
+
+     - [ Introduction aux fonctions Python pour dessiner avec Turtle sur Capytale n° f291-4755744](https://capytale2.ac-paris.fr/web/c/f291-4755744){target=_blank} ;
+
+     - [ Mise en application des fonctions Python pour décorer un sapin avec Turtle sur Capytale n° 6f46-4755885](https://capytale2.ac-paris.fr/web/c/6f46-4755885){target=_blank} ;
+
+
 -->
+***
+### Du 06/10
+
+=== "CONTENU DE SÉANCE"
+
+    - [ Se perfectionner en Python avec **Pyrates** sur Capytale n° b5af-4841135](https://capytale2.ac-paris.fr/web/c/b5af-4841135){target=_blank} ;
+
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Eprouver** vos compétences d'interpréteur de script Python en résolvant des défis d'algorithmie avec le robot virtuel [execubot niv_01](https://execubot.fr/game?levels=1+2+37+47+5+7+36+38+56+9+43+35+3+4+70+33+8+27+71+75+66+72+1000&needTuto=true&codeTracker=true){target=_blank} ;
+    
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
+    > ==**Compléter** progressivement votre [notebook jupyter sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
+
+
 ***
 
 ### Les 14, 21, 22 et 28/09
