@@ -4,22 +4,13 @@ Le Web (toile) désigne un système donnant accès à un ensemble de données (p
 
 ![building_websites](../images/undraw_building_websites_i78t.svg){ .center width=50%}
 
-[mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
-
-
-## Initiation aux langages du Web : HTML/CSS
-
-**Rejoindre** la classe sur <https://fr.khanacademy.org/join/QZ4X7WC4>{:target="_blank"} pour **suivre** les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](https://fr.khanacademy.org/computing/computer-programming/html-css){target=_blank} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157), **enregistrer** une copie de votre travail sur votre iPad dans le dossier de l'application **Carnets** afin d'y **conserver** une trace de votre travail...
-
-> - Pensez à enrichir vos codes avec vos explications personnelles.
-> - A l'issue, rendez votre notebook bilan personnel sur Capytale.
-
-![static_website](../images/undraw_static_website_re_x70h.svg){ .center width=50%}
 
 
 ## Introduction au web
 
-- En équipe, **regarder** chacun une des vidéos suivantes et **relever** les mots clefs et acronymes associés au thème du web ;
+- **Faire** le travail demandé sur le notebook [Introduction au WEB sur Capytale n° d583-12650053](https://capytale2.ac-paris.fr/web/c/d583-12650053){target=_blank} ;
+    - **Regarder** chacun une des vidéos suivantes ;
+    - **Relever** les mots clefs et acronymes associés au thème du web ;
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GqD6AiaRo3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -29,14 +20,12 @@ Le Web (toile) désigne un système donnant accès à un ensemble de données (p
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/68TNDVJKjp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- **Comparer** vos rélevés avec ceux des autres membres de l'équipe et **compléter** votre liste d'apprentissage au format HTML dans une cellule `Markdown` de votre [Notebook Jupyter sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157){target=_blank} ;
+    - **Comparer** vos rélevés avec ceux des autres membres de l'équipe ;
+    - **Améliorer** votre liste d'apprentissage en l'illustrant au format HTML/CSS dans une cellule `Markdown`
 
-> - _Indiquez sur ce document les prénoms de chaque membre de votre équipe_ ;
+> - _Indiquer sur ce document les prénoms de chaque membre de l'équipe_ ;
 
-
-<!-- - Comparer vos rélevés avec ceux des autres équipes et compléter votre liste. -->
-
-
+<!-- 
 ## Coder une page WEB en HTML et CSS
 
 - **Faire** [le TP Créer une page Web sur Capytale n° c691-4301347](https://capytale2.ac-paris.fr/web/c/c691-4301347){target=_blank} ;
@@ -75,7 +64,7 @@ Le Web (toile) désigne un système donnant accès à un ensemble de données (p
 
 ## Publier un site Web
 
-- Publication en ligne [sur **GitHub**, avec **Visual Studio Code** via **CodeSpaces**](./github)...
+- Publication en ligne [sur **GitHub**, avec **Visual Studio Code** via **CodeSpaces**](./github)... -->
 
 <!-- 
 ## Projet Web

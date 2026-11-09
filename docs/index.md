@@ -1301,34 +1301,21 @@ Correction DM HTML/CSS
     
     - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} ;
 
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
-    > ==**Rédiger** progressivement un [notebook jupyter sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
 
 
-***
-### Les 02 et 03/10
 
-=== "CONTENU DE SÉANCE"
-
-    - Retour sur le T.A.F. ;
     
     - **Faire** les activités demandées dans le paragraphe [Introduction au Web](./Web/#introduction-au-web) ;
 
     - **Poursuivre** les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](https://fr.khanacademy.org/computing/computer-programming/html-css){target=_blank} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157){target=_blank},  **enregistrer** une copie de votre travail sur votre iPad dans le dossier de l'application **Carnets** afin d'y **conserver** une trace de votre travail...  
 
-=== "TRAVAIL À FAIRE"
-
-    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} ;
-
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
-    > ==**Rédiger** progressivement un [notebook jupyter sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
 
 ***
 ### Le 25/09
 
 === "CONTENU DE SÉANCE"
 
-    - Retour sur le T.A.F. ;
+
 
     - **Rejoindre** la classe sur <https://fr.khanacademy.org/join/QZ4X7WC4>{target="_blank"} pour **suivre** les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](https://fr.khanacademy.org/computing/computer-programming/html-css){target=_blank} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157)
 
@@ -1337,32 +1324,12 @@ Correction DM HTML/CSS
     
     - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} ;
 
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
-    > ==**Rédiger** progressivement un [notebook jupyter sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
+ 
 
 
 
 
 
-***
-
-### Les 18 et 19/09
-
-=== "CONTENU DE SÉANCE"
-
-    - *Si ce n'est pas déjà fait*, **créer** un compte élève sur [Capytale](https://capytale2.ac-paris.fr/web/c-auth/login){target=_blank} avec le code Sésame `WZPG4WYFK` ;
-
-    - **Améliorer, finir puis rendre** le travail demandé sur le notebook [Capytale n°`9115-7076159`](https://capytale2.ac-paris.fr/web/c/9115-7076159){target=_blank} ;
-
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
-    > ==**Rédiger** progressivement un [notebook jupyter sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
-    
-
-=== "TRAVAIL À FAIRE"
-
-    - **Rendre** le travail demandé sur le notebook [Capytale n°`9115-7076159`](https://capytale2.ac-paris.fr/web/c/9115-7076159){target=_blank} ;
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
-    > ==**Rédiger** progressivement un [notebook jupyter sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
 ***
 
     
@@ -1385,6 +1352,26 @@ Correction DM HTML/CSS
 
 
 -->
+***
+### Du 09/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Point d'avancement d'apprentissage de programmation en Python ;
+    - **Tester** votre connexion à la plateforme [ELEA via Toutatice et Educonnect](https://bzh-29-nord.elea.apps.education.fr){target=_blank} ;
+    - **Faire** le travail demandé sur le notebook [Introduction au WEB sur Capytale n° d583-12650053](https://capytale2.ac-paris.fr/web/c/d583-12650053){target=_blank} ;
+ 
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** [vos solutions de programme Python pour **Pyrates** sur Capytale n° b5af-4841135](https://capytale2.ac-paris.fr/web/c/b5af-4841135){target=_blank} ;
+
+    - **Eprouver** vos compétences d'interpréteur de script Python en résolvant des défis d'algorithmie avec le robot virtuel [execubot niv_01](https://execubot.fr/game?levels=1+2+37+47+5+7+36+38+56+9+43+35+3+4+70+33+8+27+71+75+66+72+1000&needTuto=true&codeTracker=true){target=_blank} ;
+    
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
+    > ==**Finaliser** votre [notebook jupyter sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
+
+
 ***
 ### Du 06/10
 
