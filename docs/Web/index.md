@@ -28,7 +28,7 @@ Le Web (toile) désigne un système donnant accès à un ensemble de données (p
 <!-- 
 ## Coder une page WEB en HTML et CSS
 
-- **Faire** [le TP Créer une page Web sur Capytale n° c691-4301347](https://capytale2.ac-paris.fr/web/c/c691-4301347){target=_blank} ;
+- **Faire** [le TP Créer une page Web sur Capytale n° c691-4301347](https://capytale2.ac-paris.fr/web/c/c691-4301347){target=_blank} ; -->
 
 
 ## Quelques notions essentielles à retenir
@@ -61,7 +61,7 @@ Le Web (toile) désigne un système donnant accès à un ensemble de données (p
 | Cookies | Petits fichiers texte enregistrés lors de la navigation. D'utilité variable, ils peuvent être retirés manuellement ou en configurant le navigateur.  |
 | Référencement Web (Page Rank) | C'est le système de classement des contenus du Web basé sur des algorithmes comme celui du PageRank qui mesure la popularité d'une page Web  |
 
-
+<!-- 
 ## Publier un site Web
 
 - Publication en ligne [sur **GitHub**, avec **Visual Studio Code** via **CodeSpaces**](./github)... -->
