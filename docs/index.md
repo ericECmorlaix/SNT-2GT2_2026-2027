@@ -1352,6 +1352,25 @@ Correction DM HTML/CSS
 
 
 -->
+***
+### Le 23/11
+
+=== "CONTENU DE SÉANCE"    
+    
+    - Evaluation portant sur les notions du WEB par QCM sur Ecole Directe ;
+    
+    - **Poursuivre** le travail demandé sur le notebook [Introduction au WEB sur Capytale n° d583-12650053](https://capytale2.ac-paris.fr/web/c/d583-12650053){target=_blank} ;
+            
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les activités d'apprentissage des [Notions du Web sur ELEA](https://bzh-29-nord.elea.apps.education.fr){target=_blank} pour **se préparer** ;
+    
+    - **Rendre** [vos solutions de programme Python pour **Pyrates** sur Capytale n° b5af-4841135](https://capytale2.ac-paris.fr/web/c/b5af-4841135){target=_blank} ;
+
+    - **Eprouver** vos compétences d'interpréteur de script Python en résolvant des défis d'algorithmie avec le robot virtuel [execubot niv_01](https://execubot.fr/game?levels=1+2+37+47+5+7+36+38+56+9+43+35+3+4+70+33+8+27+71+75+66+72+1000&needTuto=true&codeTracker=true){target=_blank} ;
+    
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
+    > ==**Finaliser** votre [notebook jupyter sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
 
 ***
 ### Du 17/11
